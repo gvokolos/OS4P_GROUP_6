@@ -1,1 +1,43 @@
-This is the space for students of the course to produce their improved step-by-step instructions. 
+DONT GET STRESSED - THIS IS A FUN ACTIVITY AND REALLY EASY!
+As a team we decided to separate the process into 3 parts. The first part is the preparation of the files, the second part is the preparation of the printer, and the third part is the ensemble.
+You can watch this video for an overview of the process: https://youtu.be/xhjW_MdcCrw?si=zPpMi5myLdAi-mLV
+
+Part 1. Preparation of the Files 
+1.1. Log in to a lab computer by copying and pasting the password exactly as it appears on the screen sticker, including the spaces. 
+1.2. Download our entire GitHub repository to the local machine. 
+1.3. Open the "PrusaSlic3r" application from the Desktop. 
+1.4. Navigate to File > Import > Import STL/3MF/STP/OBJ/AMF and load all 8 .step files from the "Hardware" folder within the repository. 
+1.5. Spread the 8 parts evenly across the virtual print bed. Use the 4th tool on the left toolbar to orient each piece so it lays flat on its largest side. 
+1.6. In the right-side menu, select your available printer (we used No. 5 "Tinkie Winkie" with a 0.4 nozzle) and set the filament profile to "Esun PLA+". 
+1.7. Click the Slice now button in the bottom right corner. Once the layers are generated, click the "G" icon and select Send to printer. The print will start automatically after the transfer is complete.
+
+Part 2. Preparation of the Printer
+2.1. Remove the magnetic print plate from the bed. Ensure you are using the SMOOTH PEI surface for PLA prints. 
+2.2. Scrape off any residual plastic from previous prints using the blue plastic scraper. 
+2.3. Place the plate back onto the magnetic printer bed. 
+2.4. Spray the surface with isopropanol and wipe it completely clean with a paper towel. 
+2.5. Select a PLA filament color of your choice from the left shelves or the bottom cabinets. 
+2.6. On the printer's screen, navigate to Filament > Change filament. Wait for the nozzle to heat up, remove the existing spool, stow it away, and load your new PLA filament. Follow the on-screen prompts and select "Yes" once the new color extrudes clearly. 
+2.7. Remove the purged plastic blobs from the nozzle area.
+
+Part 3. Ensemble 
+3.1. Wait for the print bed to cool down to 30°C after the print finishes. 
+3.2. Remove the magnetic plate from the printer. 
+3.3. Apply small bends to the plate so the printed objects pop loose. 
+3.4. Carefully remove all the pieces.
+3.5. Bring your printed pieces to the drill workbench located to the left of the main room's door and take tools from the "Knives and Chilers" shelf to clean out and deburr the holes.
+3.6. Go into the main room of Lili's Proto Lab (the large room), locate the shelf labeled "Electronic components 4," and retrieve a motor and a timing belt pulley. For the motor take bolds 2.5X6 bolds. For the biggest bold, take an M3X40.
+3.7. Insert two threaded bolts through the base plate.
+3.8. Place a double-gear onto the left bolt and a washer onto the right bolt.
+3.9. Slide a second double-gear onto the right bolt to interlock with the first.
+3.10. Place washers on top of the first set of gears.
+3.11. Add a third double-gear onto the left side. 
+3.12. Add the fourth and the “longest” gear onto the right side.
+3.13. Add the smaller gear on the left side. Find two bolds that fit the motor of your choice.
+3.14. Mount the smaller gear on the left side onto the electric motor.
+3.15. Secure the motor to the gearbox base with the bolds. 
+3.16. Insert four cylindrical standoffs into the corners of the base plate. 
+3.17. Cover the assembly with the top plate. 
+3.18. Fasten the nuts onto the exposed bolts to secure the top plate. 
+3.19. Tighten screws into the four corner standoffs using an Allen key (don’t screw them too tight because the gears will not spin!).
+3.20. Connect the motor to a power supply with alligator clips to test the mechanism.
