@@ -44,6 +44,6 @@ No direct funding
 This template can be copied free of charge. 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./Documents/Images/lpl_sharing.jpg" alt="lpl sharing" style="width: 30%;"/>
+  <img src="./Images/lpl_sharing.jpg" alt="lpl sharing" style="width: 30%;"/>
   <figcaption>Figure: LPL shop front with current and future letters<figcaption>
 </div>
