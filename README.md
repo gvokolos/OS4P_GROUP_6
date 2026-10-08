@@ -2,6 +2,10 @@
 
 This repository presents a small hardware project for the course Open Science for Physicists (NS-PH500M) at Utrecht University. The goal of this repository is to be a starting place for all students to find the basic documentation which they can then use the template to build up. Update it regularly and as you make choices to make it useful for the next set of students who will have to recreate your project (hopefully with better documentation). 
 
+In the file "detailed_instructions" you can find our instructions for the project.
+
+In the file "gearbox_visual_assembly_steps" you can find pictures for all the steps of the ensemble. 
+
 [How to use Markdown, GitHubs formatting language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 ## Main features
