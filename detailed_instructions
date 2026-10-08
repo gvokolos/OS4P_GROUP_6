@@ -43,7 +43,7 @@ Part 3. Ensemble
 3.18. Fasten the nuts onto the exposed bolts to secure the top plate. 
 3.19. Tighten screws into the four corner standoffs using an Allen key (don’t screw them too tight because the gears will not spin!).
 3.20. Connect the motor to a power supply with alligator clips to test the mechanism, and then disconnect.
-3.21 Add the rubber wheel to the rotation shaft, at the top of the gearbox.
-3.22 Add (a small amount) of lubricant to the gears. Wear gloves, and wash your hands afterwards.
-3.23 Reconnect to the power supply. At first apply 2V. Slowly increase the voltage, no higher than 6V (this is the maximum the motor can handle).
-3.23 Test the gearbox using the rotary board in the lab. The Arduino Nano microcontroller can calculate the RPM.
+3.21. Add the rubber wheel to the rotation shaft, at the top of the gearbox.
+3.22. Add (a small amount) of lubricant to the gears. Wear gloves, and wash your hands afterwards.
+3.23. Reconnect to the power supply. At first apply 2V. Slowly increase the voltage, no higher than 6V (this is the maximum the motor can handle).
+3.24. Test the gearbox using the rotary board in the lab. The Arduino Nano microcontroller can calculate the RPM. See the readme file in "Software" folder.
