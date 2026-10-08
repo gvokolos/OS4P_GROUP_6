@@ -31,7 +31,6 @@ _Even though platforms such as github show a list of user accounts for contribut
 
 
 ## License
-
 This project is released under CC0 1.0 Universal. 
 You can modify an reuse as you like.
 
