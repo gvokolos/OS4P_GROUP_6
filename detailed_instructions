@@ -42,7 +42,8 @@ Part 3. Ensemble
 3.17. Cover the assembly with the top plate. 
 3.18. Fasten the nuts onto the exposed bolts to secure the top plate. 
 3.19. Tighten screws into the four corner standoffs using an Allen key (don’t screw them too tight because the gears will not spin!).
-3.20. Connect the motor to a power supply with alligator clips to test the mechanism.
-3.21. You can use some Vaseline to make the gearbox work better (see the pictures)
-3.22. Attach the rubber wheel as it is shown in the last pictures. The rubber wheel can be found in the large room of Lili's Proto Lab, next to the testing plate.
-3.23. Set up the equipment as shown in the last picture to test the speed with the Arduino sensor. Follow the instructions in the readme file in the "Software" folder.
+3.20. Connect the motor to a power supply with alligator clips to test the mechanism, and then disconnect.
+3.21 Add the rubber wheel to the rotation shaft, at the top of the gearbox.
+3.22 Add (a small amount) of lubricant to the gears. Wear gloves, and wash your hands afterwards.
+3.23 Reconnect to the power supply. At first apply 2V. Slowly increase the voltage, no higher than 6V (this is the maximum the motor can handle).
+3.23 Test the gearbox using the rotary board in the lab. The Arduino Nano microcontroller can calculate the RPM.
